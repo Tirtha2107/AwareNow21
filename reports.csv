@@ -1,0 +1,6 @@
+id,title,description,location,date,category,status,file
+20250806230150,Robbery,Robbery happen on 23/7/25,Virar,2025-08-06 23:01:50,,Reviewed,
+20250806230345,Robbery,Robbery happen on 23/7/25,Virar,2025-08-06 23:03:45,Crime,Rejected,
+20250818185922,Traffic in Delhi,Day by day in delhi traffic is increasing which is creating noise and air pollution,Delhi,2025-08-18 18:59:22,Traffic,Reviewed,uploads\20250818185922_delhi traffic.jpg
+20250823175512,Fog,"For the past several days, Rajasthan has been experiencing heavy fog, which is causing problems. Yesterday morning, it even led to an accident. Therefore, everyone should drive carefully.","Rajasthan , Barmer district ",2025-08-23 17:55:12,Weather,Reviewed,uploads\20250823175512_fog accident.jpg
+20250823181257,Flood,A total of 47 persons have died in the Raigad district in the Konkan region due to floods.,"Raigad,402201",2025-08-23 18:12:57,Disaster,Reviewed,uploads\20250823181257_food.jpg
