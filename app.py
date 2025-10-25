@@ -28,7 +28,7 @@ def get_base64_image(image_path):
         st.warning("⚠️ Background image not found.")
         return ""
 
-@st.cache_data
+# @st.cache_data
 def read_user_logins():
     try:
         return pd.read_csv(USER_LOGINS_FILE_CSV)
